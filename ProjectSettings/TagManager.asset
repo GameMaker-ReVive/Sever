@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Balloon
+  - rightWater
+  - downWater
+  - upWater
+  - leftWater
+  - powerItem
+  - speedItem
+  - rangeItem
+  - superMan
+  - ActiveItem
+  - Block
+  - PlayerA
+  - PlayerB
+  - MainCollider
+  - grass
+  - shoesItem
+  - purpleDevil
+  - redDevil
+  - hitCollider
+  - springItem
+  - tankItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Balloon
+  - Water
+  - UI
+  - Player A
+  - Player B
+  - Balloon A
+  - Balloon B
+  - Water
+  - BalloonGroup
+  - Block
+  - MoveBlock
+  - Object
+  - Grass
+  - Judgment
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
